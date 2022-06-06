@@ -1,0 +1,26 @@
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.deps.json
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.CopyComplete
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+C:\Users\Ivica\Desktop\theMVC\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.deps.json
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.AssemblyInfo.cs
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.csproj.CopyComplete
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.dll
+C:\Users\Ivica\Desktop\SEDC\AspNetMvc\ChasoviAspNetMvc\SEDC.PizzaApp.Refactored3\SEDC.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.DataAccess.pdb
